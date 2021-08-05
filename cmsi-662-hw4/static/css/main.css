@@ -1,0 +1,16 @@
+body {
+    background-color: #ADD8E6;
+    color: #191970;
+}
+.home-page {
+    padding: 20px;
+}
+#nav-border {
+    background-color: #191970;
+}
+#nav-font {
+    color: #ADD8E6;
+}
+.copyright {
+    text-align: center;
+}
