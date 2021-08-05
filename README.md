@@ -1,2 +1,2 @@
-# lmu-cmsi622
-LMU CMSI-622 Secure Software Development
+# lmu-cmsi662
+LMU CMSI-662 Secure Software Development
